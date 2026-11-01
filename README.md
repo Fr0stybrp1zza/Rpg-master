@@ -1,1 +1,1 @@
-# Rpg-master
+# Rpg-masternpm install -g eas-cli
